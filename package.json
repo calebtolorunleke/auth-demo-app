@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://calebtolorunleke.github.io/auth-demo-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
