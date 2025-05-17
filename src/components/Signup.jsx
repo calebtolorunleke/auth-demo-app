@@ -15,7 +15,7 @@ const Signup = () => {
   //   very important to naigate your route
   const navigate = useNavigate();
   const Login = () => {
-    navigate("/Login");
+    navigate("/login");
   };
 
   //   using usestate
